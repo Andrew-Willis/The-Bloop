@@ -1,0 +1,24 @@
+
+h1 {
+  color: aqua;
+  background-color: silver;
+
+}
+list-item{
+font-family: monospace;
+}
+#css-item{
+  color: aqua;
+}
+#goal-list{
+
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
